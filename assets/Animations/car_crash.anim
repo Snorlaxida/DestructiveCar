@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "car_crash",
+  "_objFlags": 0,
+  "_native": "",
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "enableTrsBlending": false,
+  "_duration": 0,
+  "_hash": 500763545,
+  "_tracks": [],
+  "_exoticAnimation": null,
+  "_events": [],
+  "_embeddedPlayers": []
+}
